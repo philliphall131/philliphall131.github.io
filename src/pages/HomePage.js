@@ -8,6 +8,7 @@ class HomePage extends React.Component {
             <div className="App">
                 <header className="App-header">
                 <h1>Hello Ivan</h1>
+                <img src="https://hosting.photobucket.com/albums/hh253/jimifunguzz/rick-astley-dancing.gif" width="500" height="500"/>
                 </header>
             </div>
             
